@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Krishna  
 
-<!--
-**krishna9325/krishna9325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Backend & Full-Stack Developer** | Java | Spring Boot | Microservices | React  
 
-Here are some ideas to get you started:
+💡 Passionate about building scalable distributed systems and full-stack applications.  
+🌱 Learning: **System Design, AI**  
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/krishnachikhale/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack  
+
+**Backend:** Java, Spring Boot, Microservices, Express.js  
+**Frontend:** React.js, Bootstrap  
+**Databases:** MySQL, Redis (Distributed Locking)  
+**DevOps & Tools:** Docker, Docker Compose, Bash Scripts, Eureka Service Discovery, Git/GitHub, Linux, AWS 
+**Others:** REST APIs, Distributed Systems, Android application, Python, Kotlin
+
+---
+
+## 🚀 Featured Projects  
+
+### 🔹 [Car Rental Application](https://github.com/krishna9325/Car-Rental/tree/docker-branch)  
+- **Description:** Microservices-based car rental platform with user/admin modules.  
+- **Features:** Authentication, car booking with Redis distributed locking, admin car & city management, rental history.  
+- **Tech Stack:** Java, Spring Boot, Microservices, Eureka, API Gateway, MySQL, Redis, React.js, Docker Compose.  
+- 📽️ [Demo Video](https://youtu.be/WWpqY9cMH_U)  
+
+---
+
+### 🔹 [Stock Breakout Tracker](https://github.com/your-repo)  
+- **Description:** Real-time stock breakout charting app for intraday, swing, and indices.  
+- **Features:** User authentication, track & update progress, real-time chart visualization.  
+- **Tech Stack:** Android, Java, Firebase, Firestore, MVVM, Room, FCM.  
+
+---
+
+
+## 📊 GitHub Stats  
+
+![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna9325&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna9325&layout=compact&theme=tokyonight)  
+
+---
+
+⭐️ From [Krishna](https://github.com/krishna9325)  
