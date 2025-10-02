@@ -16,10 +16,10 @@
 ## 🛠️ Tech Stack  
 
 **Backend:** Java, Spring Boot, Microservices, Express.js  
-**Frontend:** React.js, Bootstrap  
-**Databases:** MySQL, Redis (Distributed Locking)  
+**Frontend:** React.js, Bootstrap, CSS  
+**Databases:** MySQL, NOSQL  
 **DevOps & Tools:** Docker, Docker Compose, Bash Scripts, Eureka Service Discovery, Git/GitHub, Linux, AWS 
-**Others:** REST APIs, Distributed Systems, Android application, Python, Kotlin
+**Others:** REST APIs, Distributed Systems, Android application, Python, Kotlin, Redis
 
 ---
 
