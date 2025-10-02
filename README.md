@@ -23,7 +23,7 @@
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Projects  
 
 ### 🔹 [Car Rental Application](https://github.com/krishna9325/Car-Rental/tree/docker-branch)  
 - **Description:** Microservices-based car rental platform with user/admin modules.  
