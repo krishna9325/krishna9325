@@ -4,7 +4,12 @@
 
 💡 Passionate about building scalable distributed systems and full-stack applications.  
 🌱 Learning: **System Design, AI**  
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/krishnachikhale/)
+📫 Connect with me:  
+- 🌐 [Portfolio Website](https://my-portfolio-sigma-eight-46.vercel.app/)  
+- 💻 [Portfolio Repository](https://github.com/krishna9325/my-portfolio)  
+- 🎥 [YouTube – CodingX Krishna](https://www.youtube.com/@codingX_krishna)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/krishnachikhale/) 
+
 
 ---
 
