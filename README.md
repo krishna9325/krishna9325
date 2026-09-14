@@ -3,7 +3,6 @@
 🚀 **Backend & Full-Stack Developer** | Java | Spring Boot | Microservices | React  
 
 💡 Passionate about building scalable distributed systems and full-stack applications.  
-🌱 Learning: **System Design, AI**  
 📫 Connect with me:  
 - 🌐 [Portfolio Website](https://my-portfolio-sigma-eight-46.vercel.app/)  
 - 💻 [Portfolio Repository](https://github.com/krishna9325/my-portfolio)  
